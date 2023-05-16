@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv==1.0.0
+black 
+black[jupyter]
+scikit-learn
+pandas
+pandasai==0.2.12
